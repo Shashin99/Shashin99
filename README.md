@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shashin99&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
 </p>
 -->
-
+<!--
 <p align="center">
     <a href="https://github.com/Shashin99/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shashin99's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashin99&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
  </p>
+-->
