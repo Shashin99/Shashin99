@@ -1,6 +1,8 @@
+<!-- 
 <h2 align="center"> K L Shashin Kalpajith 
 <h4 align="center">Undergraduate Student at SLIIT</h4>
-
+-->
+![Header](./github-header-image.png)
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Shashin99" alt=" " />
 	<!-- <img src="https://user-badge.committers.top/sri_lanka/Shashin99.svg" alt="" /> -->
