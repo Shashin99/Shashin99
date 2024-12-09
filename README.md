@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashin99&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=Shashin99&theme=tokyo-night) -->
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Shashin99&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
