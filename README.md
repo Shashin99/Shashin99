@@ -24,8 +24,12 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](mediumlink) 
 
 # 📊 GitHub Stats :
- ![](https://github-readme-stats.vercel.app/api?username=Shashin99&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=Shashin99&theme=algolia&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashin99&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashin99&theme=algolia&hide_border=false" alt="GitHub Streak" />
+</p>
+
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashin99&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=Shashin99&theme=tokyo-night) -->
 
